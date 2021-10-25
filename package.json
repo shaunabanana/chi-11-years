@@ -1,0 +1,14 @@
+{
+  "name": "chi-ten-years",
+  "version": "1.0.0",
+  "description": "An analysis of ten years of CHI (2011-2021).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shauna Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "citation-js": "^0.5.1"
+  }
+}
